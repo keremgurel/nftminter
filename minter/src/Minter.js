@@ -76,7 +76,8 @@ const Minter = (props) => {
 			<br></br>
 			<img src={mintify} alt='mintify logo' className='logo' />
 			<p className='instructions'>
-				Turn you art into an NFT! Simply fill in your asset details below and press Mint NFT.
+				Turn you art into an NFT! Simply fill in your asset details below and press Mint NFT. You
+				can upload your assets to pinata by creating a free account.
 			</p>
 			<form>
 				<h2>Link to asset: </h2>
